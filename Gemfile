@@ -11,5 +11,5 @@ group :development do
   gem "shoulda", ">= 0"
   gem "bundler", "~> 1.0.0"
   gem "rcov", ">= 0"
-  gem "rails", "~> 3.1.0"
+  gem "rails", "~> 3.2.0"
 end
